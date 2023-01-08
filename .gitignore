@@ -8,3 +8,8 @@ clave.txt
 /videos
 /imagenes
 /cheet_python
+*.spec
+dist
+build
+_pycache_
+__pycache__
