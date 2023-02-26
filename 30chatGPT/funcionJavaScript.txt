@@ -1,0 +1,15 @@
+ para confirmar la borrado
+
+// Función para confirmar la borrado
+
+function confirmarBorrado(){
+    var respuesta = confirm("¿Estás seguro de borrar?");
+
+    if(respuesta == true){
+        // El usuario respondió que sí, así que se borra
+        alert("El elemento se ha borrado");
+    } else {
+        // El usuario respondió que no, así que no se borra
+        alert("El elemento no se ha borrado");
+    }
+}

@@ -1,0 +1,5 @@
+
+
+En Python la herencia es un proceso por el cual una clase, llamada clase hija, hereda las características de una clase padre. Esto le da a la clase hija una serie de características, métodos y atributos que hereda de la clase padre sin necesidad de recrearlos.
+
+La herencia en Python es una forma de encapsulación de datos porque con esto se evitan la redefinición de los mismos datos en cada clase.

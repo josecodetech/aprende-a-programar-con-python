@@ -1,0 +1,1 @@
+CLAVE = '' # pon aqui tu clave de openAI (api key)

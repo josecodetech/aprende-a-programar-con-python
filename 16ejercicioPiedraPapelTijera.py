@@ -1,3 +1,5 @@
+
+
 import random
 import sys
 
@@ -33,6 +35,8 @@ def menu():
             print('Hasta pronto!!!')
             sys.exit()
     return opcion_usuario
+
+
 
 
 def elige_maquina():
