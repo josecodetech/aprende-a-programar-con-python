@@ -1,0 +1,5 @@
+Crea un fichero y guarda un texto en el, despues abrelo y recupera el texto
+
+
+
+Serializa un diccionario usando pickle (si no conoces pickle busca en la web oficial)
