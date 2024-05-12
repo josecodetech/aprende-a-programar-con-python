@@ -14,3 +14,4 @@ build
 _pycache_
 __pycache__
 .vscode
+/.vscode
